@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Text RPG\Text RPG\bin\Debug\Text RPG.exe.config
+C:\Users\user\source\repos\Text RPG\Text RPG\bin\Debug\Text RPG.exe
+C:\Users\user\source\repos\Text RPG\Text RPG\bin\Debug\Text RPG.pdb
+C:\Users\user\source\repos\Text RPG\Text RPG\obj\Debug\Text RPG.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Text RPG\Text RPG\obj\Debug\Text RPG.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Text RPG\Text RPG\obj\Debug\Text RPG.exe
+C:\Users\user\source\repos\Text RPG\Text RPG\obj\Debug\Text RPG.pdb
